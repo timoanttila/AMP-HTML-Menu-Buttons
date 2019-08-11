@@ -19,7 +19,7 @@ https://amp.dev/documentation/components/amp-bind/
     <li class="nav-item has-submenu">
       <a class="nav-link" href="/services">Services</a>
       <button class="hidden" on="tap:menu1.toggleClass(class='show')"></button>
-      <ul id="menu1">
+      <ul id="menu1" class="submenu">
         <li><a href="">Link 1</a></li>
         <li><a href="">Link 2</a></li>
       </ul>
@@ -27,7 +27,7 @@ https://amp.dev/documentation/components/amp-bind/
     <li class="nav-item has-submenu">
       <a class="nav-link" href="/about">About</a>
       <button class="hidden" on="tap:menu2.toggleClass(class='show')"></button>
-      <ul id="menu1">
+      <ul id="menu2" class="submenu">
         <li><a href="">Link 1</a></li>
         <li><a href="">Link 2</a></li>
       </ul>
