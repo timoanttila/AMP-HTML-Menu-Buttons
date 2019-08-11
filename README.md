@@ -36,3 +36,6 @@ https://amp.dev/documentation/components/amp-bind/
   </ul>
 </nav>
 ```
+## Why not AMP Sidebar
+
+I like to have my AMP pages look good for all the devices and most of the websites use normal navigation menu and not responsive one / open after pressing the button. [AMP Sidebar](https://amp.dev/documentation/components/amp-sidebar/) is great, but it has to be hidden by default. That's very good for mobile only.
